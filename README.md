@@ -145,10 +145,38 @@ Computer Science undergraduate passionate about **Cybersecurity, Full-Stack Deve
 
 ## 🤝 Connect With Me
 
-* 💼 LinkedIn: YOUR_LINKEDIN_URL
-* 🧩 LeetCode: YOUR_LEETCODE_URL
-* 💻 GitHub: https://github.com/SkAhmadraja11
-* 📧 Email: [2300032147cseh1@gmail.com](mailto:2300032147cseh1@gmail.com)
+<p align="center">
+
+<a href="https://www.linkedin.com/in/ahmad-raja-sk-18ba6731a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Ahmad%20Raja-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/klu2300032147/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="https://github.com/SkAhmadraja11" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-SkAhmadraja11-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:2300032147cseh1@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+### 🌐 Professional Profiles
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/ahmad-raja-sk-18ba6731a/
+
+🧩 **LeetCode:** https://leetcode.com/u/klu2300032147/
+
+💻 **GitHub:** https://github.com/SkAhmadraja11
+
+📧 **Email:** [2300032147cseh1@gmail.com](mailto:2300032147cseh1@gmail.com)
+
 
 ---
 
