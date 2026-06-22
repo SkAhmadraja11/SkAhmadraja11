@@ -1,252 +1,155 @@
-```html
-<div align="center">
+# 👋 Hi, I'm Shaik Ahmad Raja
 
-# 👨‍💻 SHAIK AHMAD RAJA
+### 🔐 Cybersecurity Enthusiast | 💻 Full-Stack Developer | ☁️ AWS Certified Cloud Practitioner
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Cybersecurity+Enthusiast;Full-Stack+Developer;AWS+Certified+Cloud+Practitioner;React+%7C+Spring+Boot+%7C+Java;Building+Secure+and+Scalable+Applications" />
+> **Securing digital experiences while engineering modern web applications.**
 
-<br>
-
-<img src="https://img.shields.io/badge/CGPA-9.44-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?style=for-the-badge&logo=amazonaws"/>
-<img src="https://img.shields.io/badge/Cybersecurity-Enthusiast-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Full--Stack-Developer-blue?style=for-the-badge"/>
-
-<br><br>
-
-<h3>
-🔐 Cybersecurity Enthusiast • 💻 Full-Stack Developer • ☁️ Cloud Learner
-</h3>
-
-<p>
-Passionate about cybersecurity and software engineering, building secure digital experiences and scalable web applications.
-</p>
-
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=SkAhmadraja11\&label=Profile%20Views\&color=0e75b6\&style=flat)
+![AWS](https://img.shields.io/badge/AWS-Certified-orange)
+![CGPA](https://img.shields.io/badge/CGPA-9.44-success)
+![Focus](https://img.shields.io/badge/Focus-Cybersecurity-red)
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-<img align="right" alt="coding" width="350"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+Computer Science undergraduate passionate about **Cybersecurity, Full-Stack Development, Cloud Computing, and Secure Software Engineering**.
 
-🎓 B.Tech Computer Science Engineering Student
-
-🏫 KL University
-
-📊 CGPA: 9.44
-
-🔐 Interested in Cybersecurity, Malware Analysis & SOC Operations
-
-💻 Full-Stack Developer specializing in React & Spring Boot
-
-☁️ AWS Certified Cloud Practitioner
-
-🌱 Currently learning Cloud Security, System Design & Advanced DSA
-
-🎯 Looking for Software Development, Cybersecurity and Cloud Engineering opportunities
+* 🎓 B.Tech CSE @ KL University
+* 📊 CGPA: **9.44**
+* 🔐 Cybersecurity Virtual Intern – Palo Alto Networks
+* 🌐 Networking Virtual Intern – Juniper Networks
+* ☁️ AWS Certified Cloud Practitioner
+* 💻 Building secure web applications using React, Spring Boot, REST APIs, and MySQL
+* 📚 Currently improving DSA, System Design, Cloud Security, and Backend Development
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## Languages
+### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,mysql"/>
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
 
-## Frontend
+### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/>
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge\&logo=tailwindcss)
 
-## Backend
+### Backend & Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,nextjs"/>
-</p>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
 
-## Cloud & DevOps
+### Cloud & Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,jenkins,git,github"/>
-</p>
-
-## Tools & Security
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,postman"/>
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Autopsy-Forensics-darkblue?style=for-the-badge"/>
-</p>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
 
 ---
 
-# 💼 Experience
+## 💼 Experience
 
-## 🔐 Palo Alto Networks — Cybersecurity Virtual Intern
+### 🔐 Palo Alto Networks — Cybersecurity Virtual Intern
 
-✔ Security Incident Analysis
+* Security Incident Analysis
+* Vulnerability Assessment
+* Threat Investigation
+* Secure Design Principles
 
-✔ Vulnerability Assessment
+### 🌐 Juniper Networks — Networking Virtual Intern
 
-✔ Threat Investigation
-
-✔ Secure Design Principles
-
-✔ Security Monitoring Concepts
-
----
-
-## 🌐 Juniper Networks — Networking Virtual Intern
-
-✔ Routing & Switching
-
-✔ Network Architecture
-
-✔ Cloud Networking
-
-✔ Automation Concepts
+* Routing & Switching
+* Network Architecture
+* Cloud Networking
+* Automation Concepts
 
 ---
 
-# 🌟 Featured Projects
+## 🌟 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+### 🛡️ Next-Gen Cyber
 
-## 🛡️ Next-Gen Cyber
+**Malware Detection Web Platform**
 
-### Malware Detection Web Platform
+* Real-time threat detection
+* Secure input validation
+* Pattern-based malware analysis
+* React.js + TypeScript + REST APIs
 
-- Real-Time Threat Detection
-- Secure Input Validation
-- Threat Pattern Analysis
-- React.js + TypeScript
-- REST API Integration
-
-🌐 https://next-gen-cyber.vercel.app
-
-</td>
-
-<td width="50%">
-
-## 🤖 MinLearner
-
-### AI-Powered Learning Platform
-
-- URL to Learning Notes
-- AI Generated Summaries
-- Responsive UI
-- React.js Application
-- AI Content Processing
-
-🌐 https://minlearner.lovable.app
-
-</td>
-
-</tr>
-</table>
+🔗 https://next-gen-cyber.vercel.app
 
 ---
 
-# 🏆 Certifications
+### 🤖 MinLearner
 
-🥇 AWS Certified Cloud Practitioner
+**AI-Powered Learning Platform**
 
-🥇 Oracle Cloud Infrastructure 2025: AI Foundations Associate
+* Converts URLs into structured learning materials
+* AI-generated summaries
+* Responsive React.js interface
+* AI-assisted content processing
 
-🥇 LinguaSkill English Certification (CEFR B2)
-
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api?username=SkAhmadraja11&show_icons=true&theme=tokyonight"/>
-
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkAhmadraja11&layout=compact&theme=tokyonight"/>
-
-</div>
+🔗 https://minlearner.lovable.app
 
 ---
 
-# 🔥 Contribution Streak
+## 🏆 Certifications
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SkAhmadraja11&theme=tokyonight"/>
-
-</div>
+* AWS Certified Cloud Practitioner
+* Oracle Cloud Infrastructure 2025: AI Foundations Associate
+* LinguaSkill English Certification (CEFR B2)
 
 ---
 
-# 📊 Contribution Graph
+## 📊 GitHub Statistics
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SkAhmadraja11\&show_icons=true\&theme=tokyonight)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SkAhmadraja11&theme=tokyo-night"/>
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SkAhmadraja11\&layout=compact\&theme=tokyonight)
 
 ---
 
-# 🎯 Core Competencies
+## 🔥 Contribution Streak
 
-✔ Secure Software Development
-
-✔ Full-Stack Web Development
-
-✔ REST API Development
-
-✔ Network Security
-
-✔ Malware Analysis
-
-✔ Cloud Fundamentals
-
-✔ Problem Solving
-
-✔ Data Structures & Algorithms
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SkAhmadraja11\&theme=tokyonight)
 
 ---
 
-# 📫 Connect With Me
+## 📈 Activity Graph
 
-<p align="center">
-
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_LEETCODE_LINK">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="mailto:2300032147cseh1@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SkAhmadraja11\&theme=tokyo-night)
 
 ---
 
-<div align="center">
+## 🎯 Core Competencies
 
-## Securing digital experiences while engineering modern web applications.
+* Secure Software Development
+* Cybersecurity Fundamentals
+* Full-Stack Web Development
+* REST API Development
+* Network Security
+* Malware Analysis
+* Cloud Fundamentals
+* Problem Solving & DSA
 
-⭐ Thank you for visiting my profile.
+---
 
-</div>
-```
+## 🤝 Connect With Me
+
+* 💼 LinkedIn: YOUR_LINKEDIN_URL
+* 🧩 LeetCode: YOUR_LEETCODE_URL
+* 💻 GitHub: https://github.com/SkAhmadraja11
+* 📧 Email: [2300032147cseh1@gmail.com](mailto:2300032147cseh1@gmail.com)
+
+---
+
+### ⭐ Securing digital experiences while engineering modern web applications.
