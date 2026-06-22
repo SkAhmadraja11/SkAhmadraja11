@@ -1,103 +1,151 @@
+<div align="center">
+
 # 👋 Hi, I'm Shaik Ahmad Raja
+
+### 🔐 Cybersecurity Enthusiast | 💻 Full-Stack Developer | ☁️ AWS Certified
+
+🎓 B.Tech CSE @ KL University (CGPA: 9.44)
+
+📍 India | Open to Internships & Software Development Roles
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge\&logo=leetcode)](YOUR_LEETCODE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge)](YOUR_PORTFOLIO)
+
+</div>
+
+---
 
 ## 🚀 About Me
 
-🎓 B.Tech Computer Science Engineering Student at KL University (CGPA: 9.44)
+I'm a Computer Science undergraduate passionate about **Cybersecurity, Full-Stack Development, and Cloud Technologies**.
 
-🔐 Cybersecurity Enthusiast | 💻 Full-Stack Developer | ☁️ Cloud Learner
-
-I enjoy building secure and scalable web applications while exploring cybersecurity, malware analysis, and cloud technologies. My interests lie in combining security with software development to create reliable and impactful solutions.
+* 🔭 Building secure web applications
+* 🌱 Learning Advanced Cybersecurity & Cloud Security
+* 💻 Strong in React, Spring Boot, Java, Python
+* 🛡️ Interested in Malware Analysis & SOC Operations
+* ⚡ Solved DSA problems and continuously improving problem-solving skills
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### Programming Languages
+### Languages
 
-Java • Python • JavaScript • TypeScript • SQL • C
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,mysql" />
+</p>
 
 ### Frontend
 
-React.js • HTML5 • Tailwind CSS
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
 
 ### Backend
 
-Spring Boot • Node.js • Next.js • REST APIs
-
-### Databases
-
-MySQL
-
-### Cybersecurity
-
-Network Security • Web Application Security • Malware Analysis • SOC Fundamentals
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,nextjs" />
+</p>
 
 ### Cloud & DevOps
 
-AWS • GitHub Actions • Jenkins • CI/CD
+<p>
+<img src="https://skillicons.dev/icons?i=aws,jenkins,github" />
+</p>
 
-### Tools
+### Security & Tools
 
-Git • GitHub • Postman • VS Code • Wireshark • Nmap • Autopsy
-
----
-
-## 🔥 Featured Projects
-
-### 🛡️ Next-Gen Cyber
-
-Malware Detection Web Platform
-
-* Real-time malicious input detection
-* Secure input validation
-* React.js + Tailwind CSS + TypeScript
-* Threat analysis mechanisms
-
-🔗 Live Demo: https://next-gen-cyber.vercel.app
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
-### 🤖 MinLearner
+# 🌟 Featured Projects
 
-AI-Powered Learning Platform
+## 🛡️ Next-Gen Cyber
 
-* Converts URLs into structured learning materials
-* AI-powered content processing
-* Responsive React.js interface
-* Reusable component architecture
+### Malware Detection Web Platform
 
-🔗 Live Demo: https://minlearner.lovable.app
+✔ Real-time malicious input detection
 
----
+✔ Secure coding implementation
 
-## 🏆 Certifications
+✔ Threat pattern analysis
 
-✔ AWS Certified Cloud Practitioner
+✔ React.js + TypeScript + REST APIs
 
-✔ Oracle Cloud Infrastructure 2025: AI Foundations Associate
-
-✔ LinguaSkill English Certification (CEFR B2)
+🔗 Live Demo:
+https://next-gen-cyber.vercel.app
 
 ---
 
-## 📊 GitHub Stats
+## 🤖 MinLearner
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SkAhmadraja11\&show_icons=true)
+### AI-Powered Learning Platform
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SkAhmadraja11\&layout=compact)
+✔ Converts URLs into learning materials
+
+✔ AI-generated summaries
+
+✔ Responsive React Interface
+
+✔ Modern User Experience
+
+🔗 Live Demo:
+https://minlearner.lovable.app
 
 ---
 
-## 🌐 Connect With Me
+# 🏆 Certifications
 
-* LinkedIn: [www.linkedin.com/in/shaik-ahmad-raja](http://www.linkedin.com/in/shaik-ahmad-raja)
-* GitHub: https://github.com/SkAhmadraja11
-* LeetCode: https://leetcode.com/
+🥇 AWS Certified Cloud Practitioner
+
+🥇 Oracle Cloud Infrastructure 2025: AI Foundations Associate
+
+🥇 LinguaSkill English Certification (CEFR B2)
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SkAhmadraja11&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkAhmadraja11&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SkAhmadraja11&theme=tokyonight" />
+
+</div>
+
+---
+
+# 📫 Connect With Me
 
 📧 Email: [2300032147cseh1@gmail.com](mailto:2300032147cseh1@gmail.com)
 
+💼 LinkedIn: YOUR_LINKEDIN
+
+💻 GitHub: https://github.com/SkAhmadraja11
+
+🧩 LeetCode: YOUR_LEETCODE
+
 ---
 
-### 💡 Motto
+<div align="center">
 
-"Building secure software, solving real-world problems, and continuously learning new technologies."
+### "Building Secure Software for a Safer Digital World"
+
+⭐ If you like my work, consider starring my repositories!
+
+</div>
