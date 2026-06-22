@@ -1,16 +1,25 @@
+```html
 <div align="center">
 
-# 👋 Hi, I'm Shaik Ahmad Raja
+# 👨‍💻 SHAIK AHMAD RAJA
 
-### 🔐 Cybersecurity Enthusiast | 💻 Full-Stack Developer | ☁️ AWS Certified
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Cybersecurity+Enthusiast;Full-Stack+Developer;AWS+Certified+Cloud+Practitioner;React+%7C+Spring+Boot+%7C+Java;Building+Secure+and+Scalable+Applications" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Cybersecurity+%7C+Full-Stack+Development;React+%7C+Spring+Boot+%7C+AWS;Building+Secure+and+Scalable+Applications;Always+Learning+New+Technologies" />
+<br>
+
+<img src="https://img.shields.io/badge/CGPA-9.44-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Cybersecurity-Enthusiast-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full--Stack-Developer-blue?style=for-the-badge"/>
+
+<br><br>
+
+<h3>
+🔐 Cybersecurity Enthusiast • 💻 Full-Stack Developer • ☁️ Cloud Learner
+</h3>
 
 <p>
-<img src="https://img.shields.io/badge/CGPA-9.44-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AWS-Certified-orange?style=for-the-badge&logo=amazonaws"/>
-<img src="https://img.shields.io/badge/Cybersecurity-Enthusiast-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20to-Internships-blue?style=for-the-badge"/>
+Passionate about cybersecurity and software engineering, building secure digital experiences and scalable web applications.
 </p>
 
 </div>
@@ -19,108 +28,133 @@
 
 # 🚀 About Me
 
-🎓 B.Tech Computer Science Engineering Student at KL University
+<img align="right" alt="coding" width="350"
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🔐 Passionate about Cybersecurity, Secure Software Development and Cloud Technologies
+🎓 B.Tech Computer Science Engineering Student
 
-💻 Experienced in developing scalable web applications using React, Spring Boot, REST APIs and MySQL
+🏫 KL University
 
-🛡️ Interested in Malware Analysis, SOC Operations, Web Security and Secure Coding
+📊 CGPA: 9.44
+
+🔐 Interested in Cybersecurity, Malware Analysis & SOC Operations
+
+💻 Full-Stack Developer specializing in React & Spring Boot
 
 ☁️ AWS Certified Cloud Practitioner
 
-📈 Continuously improving Data Structures, Algorithms and System Design skills
+🌱 Currently learning Cloud Security, System Design & Advanced DSA
+
+🎯 Looking for Software Development, Cybersecurity and Cloud Engineering opportunities
 
 ---
 
 # 🛠️ Tech Stack
 
-### Programming Languages
+## Languages
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,mysql" />
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,mysql"/>
 </p>
 
-### Frontend Development
+## Frontend
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/>
 </p>
 
-### Backend Development
+## Backend
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=spring,nodejs,nextjs" />
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,nextjs"/>
 </p>
 
-### Cloud & DevOps
+## Cloud & DevOps
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=aws,jenkins,github,git" />
+<p>
+<img src="https://skillicons.dev/icons?i=aws,jenkins,git,github"/>
 </p>
 
-### Security & Networking
+## Tools & Security
 
-<p align="left">
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman"/>
+</p>
+
+<p>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Network_Security-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Malware_Analysis-darkred?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Autopsy-Forensics-darkblue?style=for-the-badge"/>
 </p>
 
 ---
 
 # 💼 Experience
 
-### 🔐 Palo Alto Networks Cybersecurity Virtual Intern
+## 🔐 Palo Alto Networks — Cybersecurity Virtual Intern
 
-* Security Incident Analysis
-* Vulnerability Assessment
-* Threat Investigation
-* Secure Design Principles
+✔ Security Incident Analysis
 
-### 🌐 Juniper Networks Virtual Intern
+✔ Vulnerability Assessment
 
-* Routing & Switching
-* Network Architecture
-* Cloud Networking
-* Network Automation Concepts
+✔ Threat Investigation
+
+✔ Secure Design Principles
+
+✔ Security Monitoring Concepts
+
+---
+
+## 🌐 Juniper Networks — Networking Virtual Intern
+
+✔ Routing & Switching
+
+✔ Network Architecture
+
+✔ Cloud Networking
+
+✔ Automation Concepts
 
 ---
 
 # 🌟 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ## 🛡️ Next-Gen Cyber
 
 ### Malware Detection Web Platform
 
-🚀 Real-Time Threat Detection
+- Real-Time Threat Detection
+- Secure Input Validation
+- Threat Pattern Analysis
+- React.js + TypeScript
+- REST API Integration
 
-🔒 Secure Input Validation
+🌐 https://next-gen-cyber.vercel.app
 
-⚡ Pattern-Based Malware Analysis
+</td>
 
-💻 React.js • Tailwind CSS • TypeScript • REST APIs
-
-🌐 Live Demo:
-https://next-gen-cyber.vercel.app
-
----
+<td width="50%">
 
 ## 🤖 MinLearner
 
 ### AI-Powered Learning Platform
 
-📚 URL to Structured Learning Notes
+- URL to Learning Notes
+- AI Generated Summaries
+- Responsive UI
+- React.js Application
+- AI Content Processing
 
-🧠 AI Content Processing
+🌐 https://minlearner.lovable.app
 
-⚡ Fast and Responsive UI
+</td>
 
-💻 React.js • JavaScript • AI Integration
-
-🌐 Live Demo:
-https://minlearner.lovable.app
+</tr>
+</table>
 
 ---
 
@@ -128,19 +162,21 @@ https://minlearner.lovable.app
 
 🥇 AWS Certified Cloud Practitioner
 
-🥇 Oracle Cloud Infrastructure 2025 AI Foundations Associate
+🥇 Oracle Cloud Infrastructure 2025: AI Foundations Associate
 
 🥇 LinguaSkill English Certification (CEFR B2)
 
 ---
 
-# 📊 GitHub Analytics
+# 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SkAhmadraja11&show_icons=true&theme=tokyonight"/>
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api?username=SkAhmadraja11&show_icons=true&theme=tokyonight"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkAhmadraja11&layout=compact&theme=tokyonight"/>
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkAhmadraja11&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -156,7 +192,7 @@ https://minlearner.lovable.app
 
 ---
 
-# 📈 Activity Graph
+# 📊 Contribution Graph
 
 <div align="center">
 
@@ -166,24 +202,51 @@ https://minlearner.lovable.app
 
 ---
 
-# 🤝 Connect With Me
+# 🎯 Core Competencies
 
-📧 [2300032147cseh1@gmail.com](mailto:2300032147cseh1@gmail.com)
+✔ Secure Software Development
 
-💼 LinkedIn: https://www.linkedin.com/in/ahmad-raja-sk-18ba6731a/
+✔ Full-Stack Web Development
 
-💻 GitHub: github.com/SkAhmadraja11
+✔ REST API Development
 
-🧩 LeetCode: https://leetcode.com/u/klu2300032147/
+✔ Network Security
+
+✔ Malware Analysis
+
+✔ Cloud Fundamentals
+
+✔ Problem Solving
+
+✔ Data Structures & Algorithms
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_LEETCODE_LINK">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="mailto:2300032147cseh1@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-## 💡 Career Objective
+## Securing digital experiences while engineering modern web applications.
 
-To build secure, scalable, and innovative software solutions while contributing to cybersecurity and modern web technologies.
-
-⭐ Thanks for visiting my profile!
+⭐ Thank you for visiting my profile.
 
 </div>
+```
